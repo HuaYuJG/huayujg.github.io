@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>华宇激光雕刻设备</title>
+  
+  <subtitle>a best comany</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-02-09T03:55:09.567Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>华宇激光雕刻设备</title>
+    <link href="http://example.com/2025/02/09/%E5%8D%8E%E5%AE%87%E6%BF%80%E5%85%89%E9%9B%95%E5%88%BB%E8%AE%BE%E5%A4%87/"/>
+    <id>http://example.com/2025/02/09/%E5%8D%8E%E5%AE%87%E6%BF%80%E5%85%89%E9%9B%95%E5%88%BB%E8%AE%BE%E5%A4%87/</id>
+    <published>2025-02-09T03:52:26.000Z</published>
+    <updated>2025-02-09T03:55:09.567Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;激光雕刻设备：原理、应用与未来趋势&quot;&gt;&lt;a href=&quot;#激光雕刻设备：原理、应用与未来趋势&quot; class=&quot;headerlink&quot; title=&quot;激光雕刻设备：原理、应用与未来趋势&quot;&gt;&lt;/a&gt;激光雕刻设备：原理、应用与未来趋势&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2025/02/09/hello-world/"/>
+    <id>http://example.com/2025/02/09/hello-world/</id>
+    <published>2025-02-09T01:22:55.625Z</published>
+    <updated>2025-02-09T03:56:59.638Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;看到这句话，说明我成功了&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
